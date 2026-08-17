@@ -3,8 +3,6 @@
 
 <img width="960" height="768" alt="image" src="https://github.com/jgoldfinch/grass_fire_meta-analysis/blob/main/cullan-smith-BdTtvBRhOng-unsplash.jpg" />
 
-**Fire**
-
 *Photo credit: Cullen Smith, Unsplash*
 
 # grass_fire_meta-analysis
