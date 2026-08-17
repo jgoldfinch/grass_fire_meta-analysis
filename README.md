@@ -32,10 +32,10 @@ A repository to recreate the analysis in the Golding et al. (in prep) publicatio
 
 ## Data files needed to run:
 * raw_data_08_17_2026.csv (raw meta-analysis data)
-* Hosted on X
+*   Hosted on X
 
 * ai_1.1.tif (aridity raster data)
-* Hosted on Y
+*   Hosted on Y
 
 ## Complete the following steps in this order:
 
