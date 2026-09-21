@@ -29,11 +29,11 @@ A repository to recreate the analysis in the Golding et al. (in prep) publicatio
 * 14_fma_growth_aridity_scatter.R
 
 ## Data files needed to run:
-* raw_data_08_17_2026.csv (raw meta-analysis data)
-*      Hosted on X
+* raw_data_final.csv (raw meta-analysis data)
+*      Hosted on Zenodo; DOI 10.5281/zenodo.22880585
 
 * ai_1.1.tif (aridity raster data)
-*      Hosted on Y
+*      Hosted on Zenodo; DOI 10.5281/zenodo.22880585
 
 ## Complete the following steps in this order:
 
