@@ -33,7 +33,7 @@ A repository to recreate the analysis in the Golding et al. (in prep) publicatio
 *      Hosted on Zenodo; DOI 10.5281/zenodo.22880585
 
 * ai_1.1.tif (aridity raster data)
-*      Hosted on Zenodo; DOI 10.5281/zenodo.22880585
+*    https://www.nature.com/articles/s41597-022-01493-1
 
 ## Complete the following steps in this order:
 
